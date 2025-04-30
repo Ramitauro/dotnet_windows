@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP.NetCore5_NLog_Web_Example.props" />
+</Project>

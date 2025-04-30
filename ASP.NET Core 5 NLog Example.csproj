@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>ASP.NetCore5_NLog_Web_Example</AssemblyName>
+    <RootNamespace>ASP.NetCore5_NLog_Web_Example</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\NLog.Web.AspNetCore\NLog.Web.AspNetCore.csproj" />
+  </ItemGroup>
+
+</Project>

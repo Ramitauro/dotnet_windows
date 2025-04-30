@@ -1,0 +1,50 @@
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\nlog.config
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.exe
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.deps.json
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.runtimeconfig.json
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.runtimeconfig.dev.json
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.pdb
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.Views.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.Views.pdb
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\NLog.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\NLog.Web.AspNetCore.pdb
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\bin\Debug\net5.0\NLog.Web.AspNetCore.xml
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.AssemblyInfo.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.TagHelpers.input.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.TagHelpers.output.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.RazorCoreGenerate.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.RazorTargetAssemblyInfo.cs
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.Views.pdb
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\scopedcss\bundle\ASP.NetCore5_NLog_Web_Example.styles.css
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\ASP.NetCore5_NLog_Web_Example.StaticWebAssets.Manifest.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\ASP.NetCore5_NLog_Web_Example.StaticWebAssets.Pack.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\msbuild.ASP.NetCore5_NLog_Web_Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\msbuild.build.ASP.NetCore5_NLog_Web_Example.props
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NetCore5_NLog_Web_Example.props
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASP.NetCore5_NLog_Web_Example.props
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET .C0FCE6C9.Up2Date
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\refint\ASP.NetCore5_NLog_Web_Example.dll
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NetCore5_NLog_Web_Example.pdb
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ASP.NET Core 5 NLog Example.genruntimeconfig.cache
+C:\Users\user\Downloads\NLog.Web-master\NLog.Web-master\examples\ASP.NET Core 5\ASP.NET Core 5 NLog Example\obj\Debug\net5.0\ref\ASP.NetCore5_NLog_Web_Example.dll
